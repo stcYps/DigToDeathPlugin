@@ -1,0 +1,9 @@
+name: DigToDeath
+version: 1.0
+description: ブロックを掘ったら死にます
+api-version: 1.16
+main: io.github.stcYps.DigToDeathPlugin
+author: stcYps
+commands:
+  dd:
+    usage: /<commands> [start, stop, help]
